@@ -21,6 +21,8 @@ window.addEventListener("DOMContentLoaded", async function () {
   displayProductItems(products);
 });
 
+// display products
+
 const displayProductItems = items => {
   let displayProduct = items.map(
     product => ` 
