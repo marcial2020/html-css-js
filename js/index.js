@@ -41,6 +41,7 @@ if (popup) {
       popup.classList.remove("hide__popup");
     }, 500);
   });
+  
 }
 
 /*
